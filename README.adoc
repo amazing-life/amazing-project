@@ -1,0 +1,22 @@
+= Amazing Project
+amazing
+:encoding: utf-8
+
+这是Amazing项目，目标是学习和运用java后端主流的技术和框架。
+
+主要技术栈：
+
+数据库：
+
+- mysql
+- redis
+
+通信：
+
+- netty
+- protobuf
+
+web：
+
+- spring mvc
+- hessian

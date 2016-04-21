@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>amazing-client</artifactId>
+    <artifactId>amazing-common</artifactId>
 
     <dependencies>
         <dependency>
@@ -17,10 +17,9 @@
             <artifactId>netty-all</artifactId>
         </dependency>
         <dependency>
-            <groupId>cn.amazing</groupId>
-            <artifactId>amazing-common</artifactId>
+            <groupId>commons-lang</groupId>
+            <artifactId>commons-lang</artifactId>
         </dependency>
     </dependencies>
-
 
 </project>

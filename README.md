@@ -1,3 +1,0 @@
-# amazing-project
-
-amazing project
